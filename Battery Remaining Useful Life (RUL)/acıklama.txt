@@ -1,0 +1,16 @@
+Hawaii Doğal Enerji Enstitüsü, 2,8 Ah nominal kapasiteye sahip, 25°C'de CC-CV şarj oranı C/2 ve 1,5C deşarj hızı ile 1000 defadan fazla döngüye tabi tutulan 14 NMC-LCO 18650 pili inceledi.
+
+Bu kaynak veri setinden, her döngüde voltaj ve akım davranışını gösteren özellikler yarattım. Bu özellikler, pillerin kalan kullanım ömrünü (RUL) tahmin etmek için kullanılabilir. Veri seti 14 pilin özetini içerir.
+
+Değişkenler:
+
+Döngü İndeksi: döngü sayısı
+F1: Boşalma Süresi (s)
+F2: 4,15V'de (sn) zaman
+F3: Zaman Sabit Akımı (lar)
+F4: Azaltma 3.6-3.4V (s)
+F5: Maks. Gerilim Deşarjı (V)
+F6: Min. Gerilim Şarjı (V)
+F7: Şarj Süresi (s)
+Toplam süre (ler)
+kural: hedef
