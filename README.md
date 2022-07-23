@@ -1,1 +1,1 @@
-# Machine Learning Simple Projects
+# Machine Learning Some Projects
