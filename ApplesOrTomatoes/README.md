@@ -1,1 +1,0 @@
-# Apples and Tomatoes LogisticRegression
